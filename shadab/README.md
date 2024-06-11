@@ -1,2 +1,1 @@
-# Intro_signUp_login_website
-A Website with Introduction page , login page and sign up connected with the database connectivity and verification from database , database files are also linked with it
+A Website with Introduction page , login page and sign up connected with the database connectivity and verification from database , database files are also linked with it. The framework used was Laravel. I used html,css, php and javascript for designing this project. Hope you like it teacher :).
